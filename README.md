@@ -23,3 +23,19 @@ Para mais informações do funcionamento do sistema, segue anexo um vídeo expli
 
 <b>Desenvolvido por:</b> Davi da Silva Fernandes e Gabriel Melo Costa
 
+</br>
+----
+</br>
+
+<h1>111club - Aplicativo Móvel de comanda digital de uma casa noturna do estado de São Paulo</h1>
+
+Um sistema voltado para bares e casas noturnas visando o aumento de produtividade no momento em que os garçons efetuam os pedidos, as comandas são criadas com os pedidos selecionados e enviados para o balcão imadiatamente.
+</br>
+<ul><b>Funcões:</b></br>
+<li></li>
+<li>Listar Produtos</li>
+<li>Listar Categorias</li>
+<li>Entrar com a comanda</li>
+<li>Registrar Pedidos</li>
+<li>Cancelar Pedidos</li>
+</ul>
