@@ -1,4 +1,4 @@
- <h2> Aplicativos-Moveis</h2>
+ <h2> Aplicativos Móveis</h2>
 
 <h1>iFSPai - Aplicativo Móvel para acompanhamento escolar dos alunos</h1>
 
