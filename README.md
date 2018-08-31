@@ -43,4 +43,7 @@ Um sistema voltado para bares e casas noturnas visando o aumento de produtividad
 Funcionamento: O usuário do aplciativo entra com o id da comanda, para então ser redirecionado para a tela principal do aplicativo, que irá listar as categorias dos produtos, e dois botões para a tela do carrinho de compras e outro para sair do sistema.<br>
 Ao clicar em alguma categoria o usuário será direcionado para a tela onde serão listados todos os produtos daquela categoria, onde será possível, ver informações como o nome do produto, sua descrição, uma caixa de texto para inserir a quantidade do produto a ser comprada, um botão para efetuar a comprar o produto e outro para ir para a tela do carrinho de compras.<br>
 Na tela de compras, será exibido um carrinho de compras com todos os pedidos efetuados pelo usuário,sendo que, somente os pedidos que não foram enviados para o balcão , poderão ser removidos. Nesta tela , serão listados todos os pedidos, por nome, quantidade e valor e o valor total da comanda.<br>
-OBS: Devido a reinvindicação de confidencialidade do comprador do sistema, não será possível apresentar o aplicativo em vídeo.
+
+[![iFSPai - Aplicativo móvel de acompanhamento escolar.](https://img.youtube.com/vi/QLqwzqeMzX4/0.jpg)](https://youtu.be/QLqwzqeMzX4"iFSPai - Aplicativo móvel de Comanda Digital.")
+
+<b>Desenvolvido por:</b> Gabriel Melo Costa
